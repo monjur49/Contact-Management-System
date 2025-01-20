@@ -1,0 +1,14 @@
+Steps to Run:
+
+Install Flask if you haven’t already:
+
+pip install flask
+
+Save the above script as app.py.
+
+Run the Flask app:
+
+python app.py
+
+Open your browser and go to http://127.0.0.1:5000.
+
